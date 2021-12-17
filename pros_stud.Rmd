@@ -3,14 +3,22 @@ title: "Prospective Students"
 ---
 
 # Who we are looking for 
-
 <br>
+The lab looks at a wide range of fisheries management issues in freshwater and marine environments.  We focus primaily on recreational fisheries management but projects can occur in other areas as well.  Take a look at our current student's research to get a better understanding of the range of our research. 
+<br>
+Our lab is located in the School of Resource and Environmental Management at Simon Fraser University on the Burnaby campus.  The REM program is an interdisciplinary graduate program for either master's or PhD students.  Students will take a range of courses centering around resource management and sustainability.  Master's students have the option of entering either the thesis or project stream which have differing amounts of courses required associated with either a larger or smaller project.
+<br>
+We are looking for students who are excited to learn and to get involved with the lab.  Previous experience is helpful but there are no specific requirements.
+<br>
+We are a relatively new lab at SFU REM and currently only have masters students and one post doctoral researcher.  If you are an interested Graduate student or post-doc please reach out with research interests or ideas.  (* Ask Brett about if he wants undergrads potentially *)
+
 
 # Experience and interest 
-
-Prospective students will ideally have experience with quantitative analysis and an interest in fisheries management.  
 <br>
-Most importantly all students should be excited to learn and get involved. 
+All projects will be quantitivate at their core and so experience with quantitative analysis is strongly encouraged.  Experience working with R or another coding language would be extremely helpful. 
+<br>
+All of our projects deal with fisheries management so a strong understanding of fisheries management issues and concepts is encouraged.  
+<br>
 
 # What you need to apply 
 
@@ -20,11 +28,10 @@ https://www.sfu.ca/rem/prospective-students/graduate-students/applying-to-rem.ht
 <br>
 You must get accepted to into the program through REM into either the project or thesis stream.  Applications are accepted based on grades and experience. 
 <br>
-If you are interested in working in our lab please get in contact! 
-
+If you are interested in working in our lab please get in contact with Brett directly or reach out to any current student with an email address listed in their bio.  
 <br>
-
-
+Please see our EDI statement listed in *** section of our website. 
+<br>
 
 # Contact 
 
